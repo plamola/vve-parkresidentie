@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tweede verkaveling"
+title:  "2de verkaveling"
 date:   2020-07-09
 image: verkaveling-plan2.jpg
 ---

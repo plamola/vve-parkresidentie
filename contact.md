@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Long Haul
+title: Contact Vve Parkresidentie Dronten
 ---
 
 <div id="contact">
