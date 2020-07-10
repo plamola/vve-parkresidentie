@@ -14,10 +14,4 @@ Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omniu
 	<figcaption>Fig1. - Dit is eerste herziening van de verkaveling</figcaption>
 </figure>
 
-{% highlight html %}
-<figure>
-	<img src="{{ '/assets/img/verkaveling-plan2.jpg' | prepend: site.baseurl }}" alt=""> 
-	<figcaption>Fig1. - Dit is de tweede verkaveling</figcaption>
-</figure>
-{% endhighlight %}
 
