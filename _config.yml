@@ -1,4 +1,21 @@
-theme: jekyll-theme-slate
-name: VvE Parkresidentie Dronten
 title: VvE Parkresidentie Dronten
+description: Vereniging van Eigenaren Parkresidentie Dronten
+
+url: http://vve.parkresidentiedronten.nl
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Start
+    url: /index.html
+  - title: Over
+    url: /about
+  - title: Contact
+    url: /contact
 
