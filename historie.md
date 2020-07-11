@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Historie
 ---
 
 <div id="articles">
-  <h1>Berichten</h1>
+  <h1>Historie</h1>
   <ul class="posts noList">
     {% for post in site.historie %}
       <li>
