@@ -16,6 +16,10 @@ navigation:
     url: /index.html
   - title: Documenten
     url: /documenten
+  - title: Historie
+    url: /historie
+  - title: Over
+    url: /over
   - title: Contact
     url: /contact
 
