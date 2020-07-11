@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Documenten
+title: VvE Parkresidentie Dronten - Documenten
+image: /assets/img/verkaveling-plan2.jpg
 ---
 
 <div class="post">
