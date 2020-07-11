@@ -3,8 +3,8 @@ description: Vereniging van Eigenaren Parkresidentie Dronten
 
 url: http://vve.parkresidentiedronten.nl
 baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+paginate_path: "artikel/page:num/"
+permalink: artikel/:title/
 
 markdown: kramdown
 highlighter: rouge
