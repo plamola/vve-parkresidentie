@@ -18,8 +18,6 @@ navigation:
     url: /nieuws
   - title: Documenten
     url: /documenten
-  - title: Over
-    url: /over
   - title: Contact
     url: /contact
 
