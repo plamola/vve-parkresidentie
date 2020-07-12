@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Vve Parkresidentie Dronten
+title: Contactpagina
 ---
 
 <div id="contact">

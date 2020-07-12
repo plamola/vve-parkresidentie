@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Over de VvE Parkresidentie Dronten
+title: Over de VvE
 ---
 
 <div class="post">

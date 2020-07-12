@@ -18,6 +18,8 @@ navigation:
     url: /nieuws
   - title: Documenten
     url: /documenten
+  - title: Historie
+    url: /historie/
   - title: Contact
     url: /contact
 

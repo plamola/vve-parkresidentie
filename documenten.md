@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VvE Parkresidentie Dronten - Documenten
+title: Documenten
 ---
 
 <div class="post">
@@ -24,9 +24,9 @@ title: VvE Parkresidentie Dronten - Documenten
 	<h4>Start verkoop november 2018 - Fase 1</h4>
 	<p>Verkoopmakelaar Dop / Bouwbedrijf Hof</p>
 	<ul>
-		<li><a href="{{ '/docs/verkoop/fase1/9-nieuwe-woningen-DOP-makelaars.pdf' | prepend: site.baseurl }}" target="_blank">Flyer - Start verkoop 9 ruim, vrijstaande jaren 30 woningen (november 2018)</a></li>
-  		<li><a href="{{ '/docs/verkoop/fase1/20181101 concept model akte van levering Park Residentie Dronten.pdf' | prepend: site.baseurl }}" target="_blank">Concept model akte van levering (november 2018)</a></li>
-		<li><a href="{{ '/docs/verkoop/fase1/Parkresidentie Dronten Luxe villa s met diverse mogelijkheden.png' | prepend: site.baseurl }}" target="_blank">Screenshot website parkresidentie.nl (juli 2020)</a></li>
+		<li><a href="{{ '/docs/verkoop/fase1/9-nieuwe-woningen-DOP-makelaars.pdf' | prepend: site.baseurl }}" target="_blank">Flyer - Start verkoop 9 ruim, vrijstaande jaren 30 woningen</a> (november 2018)</li>
+  		<li><a href="{{ '/docs/verkoop/fase1/20181101 concept model akte van levering Park Residentie Dronten.pdf' | prepend: site.baseurl }}" target="_blank">Concept model akte van levering</a> (november 2018)</li>
+		<li><a href="{{ '/docs/verkoop/fase1/Parkresidentie Dronten Luxe villa s met diverse mogelijkheden.png' | prepend: site.baseurl }}" target="_blank">Screenshot website parkresidentie.nl</a> (juli 2020)</li>
   		<li><a href="{{ '/docs/verkoop/fase1/PRD Informatiebrochure inclusief bijlagen.pdf' | prepend: site.baseurl }}" target="_blank">PRD informatiebrochure</a></li>
   	</ul>
     <h4></h4>
@@ -38,7 +38,7 @@ title: VvE Parkresidentie Dronten - Documenten
   	<h3>Inrichting</h3>
   	<ul>
   	    <li><a href="{{ '/docs/inrichting/verkaveling-plan1.jpg' | prepend: site.baseurl }}" target="_blank">Plan 1: Eerste verkaveling 80 huizen</a></li>
-  	    <li><a href="{{ '/docs/inrichting/verkaveling-plan2.jpg' | prepend: site.baseurl }}" target="_blank">Plan 2: Introductie Eindhovenschelaan - plan 2</a></li>
+  	    <li><a href="{{ '/docs/inrichting/verkaveling-plan2.png' | prepend: site.baseurl }}" target="_blank">Plan 2: Introductie Eindhovenschelaan - plan 2</a></li>
   	    <li><a href="{{ '/docs/inrichting/verkaveling-plan3.jpg' | prepend: site.baseurl }}" target="_blank">Plan 3: Verkaveling 100 huizen </a></li>
   	    <li><a href="{{ '/docs/inrichting/PRD_Brochure planuitwerking.pdf' | prepend: site.baseurl }}" target="_blank">Plan 4: Brochure planuitwerking</a></li>
   	    <li><a href="{{ '/docs/inrichting/PRD Ansjovisweg inrit.pdf' | prepend: site.baseurl }}" target="_blank">Tijdelijke bouwinrit t.b.v. plan 4</a></li>
