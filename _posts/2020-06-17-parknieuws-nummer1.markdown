@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Parknieuws nummer 1
+title:  "Parknieuws nummer 1"
 date:   2020-06-17
 ---
 

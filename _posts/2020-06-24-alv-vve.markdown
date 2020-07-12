@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Aankondiging: ALV VvE PRD op 7 juli
+title:  "Aankondiging: ALV VvE PRD op 7 juli"
 date:   2020-06-24
 ---
 

@@ -5,7 +5,7 @@ title: VvE Parkresidentie Dronten - Documenten
 
 <div class="post">
 	<h1 class="pageTitle">Documenten</h1>
-	<p class="intro">Hier komen documenten te staan uit publieke bronnen.</p>
+	<p class="intro">Documenten uit publieke bronnen.</p>
 	<h3>VvE</h3>
 	<ul>
 		<li><a href="{{ '/docs/vve/Uittreksel VvE Park Residentie Dronten.pdf' | prepend: site.baseurl }}" target="_blank">Uittreksel VvE Parkresidentie Dronten</a></li>
@@ -24,13 +24,13 @@ title: VvE Parkresidentie Dronten - Documenten
 	<h4>Start verkoop november 2018 - Fase 1</h4>
 	<p>Verkoopmakelaar Dop / Bouwbedrijf Hof</p>
 	<ul>
-		<li><a href="{{ '/docs/verkoop/fase1/9-nieuwe-woningen-DOP-makelaars.pdf' | prepend: site.baseurl }}" target="_blank">Start verkoop 9 ruim, vrijstaande jaren 30 woningen (november 2018)</a></li>
+		<li><a href="{{ '/docs/verkoop/fase1/9-nieuwe-woningen-DOP-makelaars.pdf' | prepend: site.baseurl }}" target="_blank">Flyer - Start verkoop 9 ruim, vrijstaande jaren 30 woningen (november 2018)</a></li>
   		<li><a href="{{ '/docs/verkoop/fase1/20181101 concept model akte van levering Park Residentie Dronten.pdf' | prepend: site.baseurl }}" target="_blank">Concept model akte van levering (november 2018)</a></li>
 		<li><a href="{{ '/docs/verkoop/fase1/Parkresidentie Dronten Luxe villa s met diverse mogelijkheden.png' | prepend: site.baseurl }}" target="_blank">Screenshot website parkresidentie.nl (juli 2020)</a></li>
   		<li><a href="{{ '/docs/verkoop/fase1/PRD Informatiebrochure inclusief bijlagen.pdf' | prepend: site.baseurl }}" target="_blank">PRD informatiebrochure</a></li>
   	</ul>
     <h4></h4>
-    <h4>Start verkoop julie 2020 - Fase 2</h4>
+    <h4>Start verkoop juli 2020 - Fase 2</h4>
     <p>Verkoopmakelaar Dop / Bouwbedrijf Hof</p>
     <ul>
         <li>nog niet voorhanden</li>
