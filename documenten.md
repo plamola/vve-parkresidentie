@@ -1,24 +1,25 @@
 ---
 layout: default
 title: VvE Parkresidentie Dronten - Documenten
-image: /assets/img/verkaveling-plan2.jpg
 ---
 
 <div class="post">
 	<h1 class="pageTitle">Documenten</h1>
-	<img src="{{ '/assets/img/verkaveling-plan2.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
+	<p class="intro">Hier komen documenten te staan uit publieke bronnen.</p>
+	<h2>VvE</h2>
 	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
+		<li><a href="{{ '/docs/vve/Uittreksel VvE Park Residentie Dronten.pdf' | prepend: site.baseurl }}">Uittreksel VvE Parkresidentie Dronten</a></li>
+  	</ul>  	
+	<h2>Verkoop documenten</h2>
+	<p>2018- juli 2020 - Fase 1</p>
+	<ul>
+		<li><a href="{{ '/docs/verkoop/fase1/Parkresidentie Dronten Luxe villa s met diverse mogelijkheden.png' | prepend: site.baseurl }}">Screenshot website parkresidentie.nl (12-07-2020)</a></li>
+  		<li><a href="{{ '/docs/verkoop/fase1/20181101 concept model akte van levering Park Residentie Dronten.pdf' | prepend: site.baseurl }}">Concept model akte van levering (20181101)</a></li>
+  		<li><a href="{{ '/docs/verkoop/fase1/PRD Informatiebrochure inclusief bijlagen.pdf' | prepend: site.baseurl }}">PRD informatiebrochure</a></li>
   	</ul>
+	<h2>Overige</h2>
+	<ul>
+		<li><a href="{{ '/docs/overige/Park Nieuws nr 1 202006.pdf' | prepend: site.baseurl }}">Screenshot website parkresidentie.nl (12-07-2020)</a></li>
+  	</ul>
+	<p>Mis je nog een document, geeft dit dan door aan de <a href="mailto:vve-website@parkresidentiedronten.nl">beheerder</a>.</p>
 </div>

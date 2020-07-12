@@ -12,7 +12,7 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-  - title: Start
+  - title: Nieuws
     url: /index.html
   - title: Documenten
     url: /documenten
