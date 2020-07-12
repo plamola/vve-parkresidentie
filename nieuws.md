@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VvE Parkresidentie Dronten - Berichten
+title: VvE Parkresidentie Dronten - Nieuws
 ---
 
 <div id="articles">

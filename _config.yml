@@ -12,12 +12,12 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-  - title: Nieuws
+  - title: Start
     url: /index.html
+  - title: Nieuws
+    url: /nieuws
   - title: Documenten
     url: /documenten
-  - title: Historie
-    url: /historie/index.html
   - title: Over
     url: /over
   - title: Contact

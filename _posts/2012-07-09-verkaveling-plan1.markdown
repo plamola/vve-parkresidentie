@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "2de verkaveling"
-date:   2020-07-09
+title:  Eerste verkaveling 2012"
+date:   2012-07-09
 image: verkaveling-plan1.jpg
 ---
 

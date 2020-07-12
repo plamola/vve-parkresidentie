@@ -4,23 +4,11 @@ title: VvE Parkresidentie Dronten
 ---
 
 <div class="home" id="home">
-  <h1 class="pageTitle">Nieuws</h1>
-  <ul class="posts noList">
-    {% for post in paginator.posts %}
-      <li>
-        <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</p>
-      </li>
-    {% endfor %}
-  </ul>
-  <!-- Pagination links -->
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Nieuwere berichten</a>
-    {% endif %}
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Oudere berichten</a>
-    {% endif %}
-  </div>
+  <h1 class="pageTitle">Welkom</h1>
+  <p>Welkom op de website van de VvE Parkresidentie Dronten.</p>
+  <p>Op deze website kun je informatie vinden over de VvE, nieuwsberichten voor en door de bewoners en lees je meer over de geschiedenis van de Parkresidentie.</p>
+
+
+  <p>Deze website is nog vol op in ontwikkeling.</p>
+
 </div>
