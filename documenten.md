@@ -35,13 +35,15 @@ title: Documenten
     <ul>
         <li>nog niet voorhanden</li>
     </ul>    
-  	<h3>Inrichting</h3>
+  	<h3>Inrichtingtekeningen</h3>
   	<ul>
   	    <li><a href="{{ '/docs/inrichting/verkaveling-plan1.jpg' | prepend: site.baseurl }}" target="_blank">Plan 1: Eerste verkaveling 80 huizen</a></li>
   	    <li><a href="{{ '/docs/inrichting/verkaveling-plan2.png' | prepend: site.baseurl }}" target="_blank">Plan 2: Introductie Eindhovenschelaan - plan 2</a></li>
   	    <li><a href="{{ '/docs/inrichting/verkaveling-plan3.jpg' | prepend: site.baseurl }}" target="_blank">Plan 3: Verkaveling 100 huizen </a></li>
   	    <li><a href="{{ '/docs/inrichting/PRD_Brochure planuitwerking.pdf' | prepend: site.baseurl }}" target="_blank">Plan 4: Brochure planuitwerking</a></li>
   	    <li><a href="{{ '/docs/inrichting/PRD Ansjovisweg inrit.pdf' | prepend: site.baseurl }}" target="_blank">Tijdelijke bouwinrit t.b.v. plan 4</a></li>
+  	    <li><a href="{{ '/docs/inrichting/verkaveling-fase1-2020.jpg' | prepend: site.baseurl }}" target="_blank">Huidige verkaveling fase1</a></li>
+  	    <li><a href="{{ '/docs/inrichting/fase2.jpg' | prepend: site.baseurl }}" target="_blank">Fase 2 - Eerste 16 huizen</a></li>
   	</ul>            	
 	<h3>Overige</h3>
 	<ul>
