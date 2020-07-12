@@ -8,12 +8,12 @@ title: VvE Parkresidentie Dronten - Documenten
 	<p class="intro">Hier komen documenten te staan uit publieke bronnen.</p>
 	<h3>VvE</h3>
 	<ul>
-		<li><a href="{{ '/docs/vve/Uittreksel VvE Park Residentie Dronten.pdf' | prepend: site.baseurl }} target="_">Uittreksel VvE Parkresidentie Dronten</a></li>
+		<li><a href="{{ '/docs/vve/Uittreksel VvE Park Residentie Dronten.pdf' | prepend: site.baseurl }}" target="_">Uittreksel VvE Parkresidentie Dronten</a></li>
   	</ul>  	
 	<h3>Verkoop documenten</h3>
 	<h4>2018- juli 2020 - Fase 1</h4>
 	<ul>
-		<li><a href="{{ '/docs/verkoop/fase1/Parkresidentie Dronten Luxe villa s met diverse mogelijkheden.png' | prepend: site.baseurl }} target="blank">Screenshot website parkresidentie.nl (12-07-2020)</a></li>
+		<li><a href="{{ '/docs/verkoop/fase1/Parkresidentie Dronten Luxe villa s met diverse mogelijkheden.png' | prepend: site.baseurl }}" target="blank">Screenshot website parkresidentie.nl (12-07-2020)</a></li>
   		<li><a href="{{ '/docs/verkoop/fase1/20181101 concept model akte van levering Park Residentie Dronten.pdf' | prepend: site.baseurl }}">Concept model akte van levering (20181101)</a></li>
   		<li><a href="{{ '/docs/verkoop/fase1/PRD Informatiebrochure inclusief bijlagen.pdf' | prepend: site.baseurl }}">PRD informatiebrochure</a></li>
   	</ul>
