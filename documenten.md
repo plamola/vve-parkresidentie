@@ -3,7 +3,7 @@ layout: default
 title: Documenten
 ---
 
-<div class="post">
+<div class="home">
 	<h1 class="pageTitle">Documenten</h1>
 	<p class="intro">Documenten uit publieke bronnen.</p>
 	<h3>VvE</h3>

@@ -4,7 +4,7 @@ title: Nieuws
 ---
 
 <div id="articles">
-  <h1>Nieuws</h1>
+  <h1 class="pageTitle">Nieuws</h1>
   <ul class="posts noList">
     {% for post in site.posts %}
       <li>
