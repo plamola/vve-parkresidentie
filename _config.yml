@@ -1,4 +1,4 @@
-title: VvE Parkresidentie Dronten
+title: VvE Park Residentie Dronten
 description: Vereniging van Eigenaren Parkresidentie Dronten
 
 url: http://vve.parkresidentiedronten.nl
@@ -13,13 +13,13 @@ paginate: 5
 
 navigation:
   - title: Start
-    url: /index.html
+    url: /omgevingsvergunningen.md
   - title: Nieuws
     url: /nieuws
   - title: Documenten
     url: /documenten
   - title: Historie
     url: /historie/
-  - title: Contact
-    url: /contact
+  - title: Over de VvE
+    url: /over
 

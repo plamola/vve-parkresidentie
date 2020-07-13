@@ -1,0 +1,32 @@
+---
+layout: default
+title: "Verleende omgevingsvergunningen"
+---
+
+<div class="home" id="home">
+  <h1 class="pageTitle">Verleende omgevingsvergunningen</h1>
+  <p>Op deze pagina een overzicht van de verleende omgevingsvergunningen voor de bouw van woningen op de Parkresidentie.
+    Deze zijn afkomstig uit de publicaties op de <a href="https://www.dronten.nl/mozard/!suite86.scherm0325?mVrg=4612">website</a> van de gemeente Dronten.
+  </p>
+  
+  <p>Het overzicht op deze pagina toont alleen omgevingsvergunningen die sinds 2017 zijn afgegeven.</p>
+  <ul class="noList">
+    <li><strong>24-10-2017</strong> Eindhovenschelaan 5 (uitbreiden van de woning met een praktijkruimte)</li>
+    <li><strong>17-11-2017</strong> Eindhovenschelaan 7 (wijziging t.o.v. eerder verleende vergunning OV 2013-0169)</li>
+    <li><strong>20-03-2018</strong> Eindhovenschelaan 9</li>
+    <li><strong>06-07-2018</strong> Eindhovenschelaan 3 (wijziging t.o.v. de eerder verleende vergunning OV 2013-0169)</li>
+    <li><strong>27-05-2019</strong> Eindhovenschelaan (kavel 1) </li>
+    <li><strong>17-06-2019</strong> Parkresidentie (kavel 7)</li>
+    <li><strong>21-06-2019</strong> Parkresidentie (kavel 6)</li>
+    <li><strong>10-07-2019</strong> Noordwijkselaan 6 (kavel 13)</li>
+    <li><strong>05-08-2019</strong> Parkresidentie 4 (kavel 5)</li>
+    <li><strong>30-01-2020</strong> Parkresidentie 10 (kavel 8)</li>
+    <li><strong>10-02-2020</strong> Noordwijkselaan 4 (kavel 12)</li>
+    <li><strong>17-02-2020</strong> Parkresidentie 12 (kavel 9)</li>
+    <li><strong>03-03-2020</strong> Eindhovenschelaan (kavel 14)</li>
+    <li><strong>01-05-2020</strong> Eindhovenschelaan (kavel 3)</li>
+  </ul>
+  <p>Overzicht is bijgewerkt t/m week 28 2020</p>
+
+
+</div>

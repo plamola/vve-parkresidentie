@@ -804,7 +804,7 @@ HEADER STYLING
   background-image: url("../img/site-header.jpg");
   background-size: cover;
   background-position: center center;
-  color: white;
+  color: blue;
   padding: 0;
   height: 3em; }
   .header .container {
@@ -1159,3 +1159,7 @@ CONTACT PAGE STYLING
     width: 48%;
     float: right;
     margin-right: 0; } }
+
+
+
+
