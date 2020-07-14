@@ -5,7 +5,7 @@ title: Over de VvE
 
 <div class="post">
 	<h1 class="pageTitle">Over de VvE </h1>
-	<p><strong>Let op: Er is nog geen bestuur aangesteld, waardoor er op deze pagina's nog namen ontbreken.</strong></p>
+	<p><strong>Let op: Er is nog geen bestuur aangesteld door de leden van de Vve, waardoor er op deze pagina's nog namen ontbreken.</strong></p>
     <h2>Bestuur</h2>
     <ul>
         <li>[naam 1] (voorzitter), per <a href="mailto:">e-mail</a></li>
@@ -19,5 +19,5 @@ title: Over de VvE
     <h2>Ledenadministratie</h2>
     <p>De ledenadministratie van de VvE PRD wordt beheerd door [naam], ter bereiken via <a href="mailto:">e-mail</a>.</p>
     <h2>Websitebeheer</h2>
-    <p>Websitebeheer door Matthijs Dekker, via <a href="mailto:webmaster@parkresidentiedronten.nl">e-mail</a></p>
+    <p>Websitebeheer door Matthijs Dekker, via <a href="mailto:{{ site.contact.webmaster }}">e-mail</a></p>
  </div>

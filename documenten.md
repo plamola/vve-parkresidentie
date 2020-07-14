@@ -47,5 +47,6 @@ title: Documenten
 		<li><a href="{{ '/docs/overige/9030 - toelichting + voorschriften bp Parkresidentie.pdf' | prepend: site.baseurl }}" target="_blank">Bestemmingsplan Park Residentie Dronten</a> vastgesteld 26 januari 2006</li>
 		<li><a href="{{ '/docs/overige/Park Nieuws nr 1 202006.pdf' | prepend: site.baseurl }}" target="_blank">Parknieuws Nummer 1 - Juni 2020</a></li>
   	</ul>
-	<p>Mis je nog een document, geeft dit dan door aan de <a href="mailto:webmaster@parkresidentiedronten.nl">beheerder</a>.</p>
+	<p>Niet publieke documenten, zoals bijvoorbeeld notulen van de VvE, zijn alleen toegankelijk voor leden en staan op een aparte, afgeschermde omgeving.</p>
+	<p>Mis je nog een document, geeft dit dan door aan de <a href="mailto:{{ site.contact.webmaster }}">beheerder</a>.</p>
 </div>
