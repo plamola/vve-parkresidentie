@@ -16,12 +16,13 @@ navigation:
     url: /
   - title: Nieuws
     url: /nieuws
+  - title: Over de VvE
+    url: /over
   - title: Documenten
     url: /documenten
   - title: Historie
     url: /historie/
-  - title: Over de VvE
-    url: /over
+
 
 contact:
   webmaster: webmaster@parkresidentiedronten.nl

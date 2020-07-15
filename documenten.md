@@ -34,8 +34,11 @@ title: Documenten
 	<ul>
 		<li><a href="{{ '/docs/verkoop/fase1/9-nieuwe-woningen-DOP-makelaars.pdf' | prepend: site.baseurl }}" target="_blank">Flyer - Start verkoop 9 ruim, vrijstaande jaren 30 woningen</a> (november 2018)</li>
   		<li><a href="{{ '/docs/verkoop/fase1/20181101 concept model akte van levering Park Residentie Dronten.pdf' | prepend: site.baseurl }}" target="_blank">Concept model akte van levering</a> (november 2018)</li>
-		<li><a href="{{ '/docs/verkoop/fase1/Parkresidentie Dronten Luxe villa s met diverse mogelijkheden.png' | prepend: site.baseurl }}" target="_blank">Screenshot website parkresidentie.nl</a> (juli 2020)</li>
   		<li><a href="{{ '/docs/verkoop/fase1/PRD Informatiebrochure inclusief bijlagen.pdf' | prepend: site.baseurl }}" target="_blank">PRD informatiebrochure</a></li>
+		<li><a href="{{ '/docs/verkoop/fase1/Parkresidentie Dronten Luxe villa s met diverse mogelijkheden.png' | prepend: site.baseurl }}" target="_blank">Screenshot website parkresidentie.nl</a> (juli 2020)</li>
+  		<li><a href="{{ '/docs/verkoop/fase1/Dronten-Park-Residentie-type-Swing-brochure6.pdf' | prepend: site.baseurl }}" target="_blank">Brochure Swing</a></li>
+  		<li><a href="{{ '/docs/verkoop/fase1/Dronten-Park-Residentie-type-Drive-brochure6.pdf' | prepend: site.baseurl }}" target="_blank">Brochure Drive</a></li>
+  		<li><a href="{{ '/docs/verkoop/fase1/Dronten-Park-Residentie-type-Groove-brochure5.pdf' | prepend: site.baseurl }}" target="_blank">Brochure Groove</a></li>
   	</ul>
     <h4>Start verkoop juli 2020 - Fase 2</h4>
 	<p>Verkoopmakelaar Dop / Bouwbedrijf Hof</p>
