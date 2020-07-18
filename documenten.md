@@ -22,7 +22,7 @@ title: Documenten
   	    <li><a href="{{ '/docs/inrichting/verkaveling-fase1-2020.jpg' | prepend: site.baseurl }}" target="_blank">Verkaveling fase1 juli 2020</a> [definitief?]</li>
   	    <li><a href="{{ '/docs/inrichting/fase2.jpg' | prepend: site.baseurl }}" target="_blank">Fase 2 - Eerste 16 huizen</a></li>
   	</ul>            	
-	<h3>Verkoop documentatie</h3>
+	<h3>Verkoopdocumentatie</h3>
 	<h4>Start verkoop 2013 - Fase 1</h4>
 	<p>Verkoopmakelaars <a href="https://www.flipse.nu/">Flipse makelaardij</a>, 
 	<a href="https://www.sinkemakelaardij.nl/">Sinke B.V.</a>, 
@@ -40,10 +40,10 @@ title: Documenten
 		<li><a href="{{ '/docs/verkoop/fase1/9-nieuwe-woningen-DOP-makelaars.pdf' | prepend: site.baseurl }}" target="_blank">Flyer - Start verkoop 9 ruim, vrijstaande jaren 30 woningen</a> (november 2018)</li>
   		<li><a href="{{ '/docs/verkoop/fase1/20181101 concept model akte van levering Park Residentie Dronten.pdf' | prepend: site.baseurl }}" target="_blank">Concept model akte van levering</a> (november 2018)</li>
   		<li><a href="{{ '/docs/verkoop/fase1/PRD Informatiebrochure inclusief bijlagen.pdf' | prepend: site.baseurl }}" target="_blank">PRD informatiebrochure</a></li>
-		<li><a href="{{ '/docs/verkoop/fase1/Parkresidentie Dronten Luxe villa s met diverse mogelijkheden.png' | prepend: site.baseurl }}" target="_blank">Screenshot website parkresidentie.nl</a> (juli 2020)</li>
   		<li><a href="{{ '/docs/verkoop/fase1/Dronten-Park-Residentie-type-Swing-brochure6.pdf' | prepend: site.baseurl }}" target="_blank">Brochure Swing</a></li>
   		<li><a href="{{ '/docs/verkoop/fase1/Dronten-Park-Residentie-type-Drive-brochure6.pdf' | prepend: site.baseurl }}" target="_blank">Brochure Drive</a></li>
   		<li><a href="{{ '/docs/verkoop/fase1/Dronten-Park-Residentie-type-Groove-brochure5.pdf' | prepend: site.baseurl }}" target="_blank">Brochure Groove</a></li>
+		<li><a href="{{ '/docs/verkoop/fase1/Parkresidentie Dronten Luxe villa s met diverse mogelijkheden.png' | prepend: site.baseurl }}" target="_blank">Screenshot website parkresidentie.nl</a> (juli 2020)</li>
   	</ul>
     <h4>Start verkoop juli 2020 - Fase 2</h4>
 		<p>Verkoopmakelaar <a href="https://dop.nl/product/dronten/">Dop</a> <br/> 
@@ -57,5 +57,5 @@ title: Documenten
 		<li><a href="{{ '/docs/overige/Park Nieuws nr 1 202006.pdf' | prepend: site.baseurl }}" target="_blank">Parknieuws Nummer 1 - Juni 2020</a></li>
   	</ul>
 	<p>Niet publieke documenten, zoals bijvoorbeeld notulen van de VvE, zijn alleen toegankelijk voor leden en staan op een aparte, afgeschermde omgeving.</p>
-	<p>Mis je nog een document, geeft dit dan door aan de <a href="mailto:{{ site.contact.webmaster }}">beheerder</a>.</p>
+	<p>Mis je nog een document, lever deze dan aan via de <a href="mailto:{{ site.contact.webmaster }}">beheerder</a> van de websit.</p>
 </div>
