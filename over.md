@@ -5,7 +5,7 @@ title: Over de VvE
 
 <div class="post">
 	<h1 class="pageTitle">Over de VvE </h1>
-	<p><strong>Let op: Er is nog geen bestuur aangesteld door de leden van de VvE, waardoor er op deze pagina's nog namen ontbreken.</strong></p>
+	<p><strong>Let op: Er is nog geen bestuur aangesteld door de leden van de VvE, waardoor op deze pagina namen ontbreken.</strong></p>
     <h2>Bestuur</h2>
     <ul>
         <li>[naam 1] (voorzitter), per <a href="mailto:">e-mail</a></li>

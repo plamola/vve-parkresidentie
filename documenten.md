@@ -24,18 +24,18 @@ title: Documenten
   	</ul>            	
 	<h3>Verkoopdocumentatie</h3>
 	<h4>Start verkoop 2013 - Fase 1</h4>
-	<p>Verkoopmakelaars <a href="https://www.flipse.nu/">Flipse makelaardij</a>, 
-	<a href="https://www.sinkemakelaardij.nl/">Sinke B.V.</a>, 
-	<a href="https://www.vsomakelaars.nl/40-d56e/makelaar-dronten">VSO Makelaars</a>, 
-	<a href="https://www.vanderlinden.nl/">Van der Linden</a> <br/> 
-	Bouwbedrijf <a href="http://www.bjvandersteeg.nl/">B.J. van der Steeg B.V.</a></p>
+	<p>Verkoopmakelaars <a href="https://www.flipse.nu/" target="_blank">Flipse makelaardij</a>, 
+	<a href="https://www.sinkemakelaardij.nl/" target="_blank">Sinke B.V.</a>, 
+	<a href="https://www.vsomakelaars.nl/40-d56e/makelaar-dronten" target="_blank">VSO Makelaars</a>, 
+	<a href="https://www.vanderlinden.nl/" target="_blank">Van der Linden</a> <br/> 
+	Bouwbedrijf <a href="http://www.bjvandersteeg.nl/" target="_blank">B.J. van der Steeg B.V.</a></p>
 	<ul>
 		<li><a href="{{ '/docs/verkoop/fase1/Informatiebrochure - Bogey Birdie Eagle.pdf' | prepend: site.baseurl }}" target="_blank">Informatie brochure Birdie Bogey Eagle</a></li> 
 		<li><a href="{{ '/docs/verkoop/fase1/prijslijst-parkresidentie-2016.pdf' | prepend: site.baseurl }}" target="_blank">Prijslijst Birdie Bogey Eagle 2016</a></li> 
 	</ul>
 	<h4>Start verkoop november 2018 - Fase 1</h4>
-		<p>Verkoopmakelaar <a href="https://dop.nl/product/dronten/">Dop</a> <br/> 
-		Bouwbedrijf <a href="https://www.bouwbedrijfhof.nl/">Hof</a></p>
+		<p>Verkoopmakelaar <a href="https://dop.nl/product/dronten/" target="_blank">Dop</a> <br/> 
+		Bouwbedrijf <a href="https://www.bouwbedrijfhof.nl/" target="_blank">Hof</a></p>
 	<ul>
 		<li><a href="{{ '/docs/verkoop/fase1/9-nieuwe-woningen-DOP-makelaars.pdf' | prepend: site.baseurl }}" target="_blank">Flyer - Start verkoop 9 ruim, vrijstaande jaren 30 woningen</a> (november 2018)</li>
   		<li><a href="{{ '/docs/verkoop/fase1/20181101 concept model akte van levering Park Residentie Dronten.pdf' | prepend: site.baseurl }}" target="_blank">Concept model akte van levering</a> (november 2018)</li>
@@ -46,8 +46,8 @@ title: Documenten
 		<li><a href="{{ '/docs/verkoop/fase1/Parkresidentie Dronten Luxe villa s met diverse mogelijkheden.png' | prepend: site.baseurl }}" target="_blank">Screenshot website parkresidentie.nl</a> (juli 2020)</li>
   	</ul>
     <h4>Start verkoop juli 2020 - Fase 2</h4>
-		<p>Verkoopmakelaar <a href="https://dop.nl/product/dronten/">Dop</a> <br/> 
-		Bouwbedrijf <a href="https://www.bouwbedrijfhof.nl/">Hof</a></p>
+		<p>Verkoopmakelaar <a href="https://dop.nl/product/dronten/" target="_blank">Dop</a> <br/> 
+		Bouwbedrijf <a href="https://www.bouwbedrijfhof.nl/" target="_blank">Hof</a></p>
     <ul>
         <li>nog niet voorhanden</li>
     </ul>    
