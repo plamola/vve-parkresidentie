@@ -9,8 +9,8 @@ title: Documenten
 	<h3>VvE</h3>
 	<ul>
 		<li><a href="{{ '/docs/vve/Uittreksel VvE Park Residentie Dronten.pdf' | prepend: site.baseurl }}" target="_blank">Uittreksel VvE Parkresidentie Dronten</a></li>
-        <li>Statuten VvE Parkresidentie Dronten (todo)</li>
-        <li>Huishoudelijk regelement (todo)</li>
+        <li><a href="{{ '/docs/vve/Akte van oprichting - statuten VvE.pdf' | prepend: site.baseurl }}" target="_blank">Akte van oprichting - statuten VvE</a></li>
+        <li><a href="{{ '/docs/vve/Huishoudelijk regelement.pdf' | prepend: site.baseurl }}" target="_blank">Huishoudelijk regelement</a></li>
   	</ul>  	
   	<h3>Inrichtingstekeningen</h3>
   	<ul>
