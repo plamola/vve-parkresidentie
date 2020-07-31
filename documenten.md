@@ -56,7 +56,9 @@ title: Documenten
 		<p>Verkoopmakelaar <a href="https://dop.nl/product/dronten/" target="_blank">Dop</a> <br/> 
 		Bouwbedrijf <a href="https://www.bouwbedrijfhof.nl/" target="_blank">Hof</a></p>
     <ul>
-        <li>nog niet voorhanden</li>
+  		<li><a href="{{ '/docs/verkoop/fase2/Dronten-Park-Residentie-fase-2-type-Swing-brochure2.pdf' | prepend: site.baseurl }}" target="_blank">Brochure Swing</a></li>
+  		<li><a href="{{ '/docs/verkoop/fase2/Dronten-Park-Residentie-fase2-type-Drive-brochure2.pdf' | prepend: site.baseurl }}" target="_blank">Brochure Drive</a></li>
+  		<li><a href="{{ '/docs/verkoop/fase2/Dronten-Park-Residentie-fase-2-type-Groove-brochure2.pdf' | prepend: site.baseurl }}" target="_blank">Brochure Groove</a></li>
     </ul>    
 	<h3>Overige</h3>
 	<ul>
