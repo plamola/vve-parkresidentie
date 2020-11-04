@@ -27,8 +27,8 @@ title: "Verleende omgevingsvergunningen"
     <li><strong>01-05-2020</strong> Eindhovenschelaan 4 (kavel 3)</li>
     <li><strong>24-08-2020</strong> Kad. sectie B1071 en B4340, verplaatsen van de bouwinrit</li> 
     <li><strong>22-09-2020</strong> Eindhovenschelaan 1</li>   
+    <li><strong>28-10-2019</strong> Noordwijkselaan 10</li>
   </ul>
-  <p>Overzicht is bijgewerkt t/m week 40 2020</p>
-
+  <p>Overzicht is bijgewerkt t/m week 45 2020</p>
 
 </div>
