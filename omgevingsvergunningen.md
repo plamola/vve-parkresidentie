@@ -30,7 +30,8 @@ title: "Verleende omgevingsvergunningen"
     <li><strong>28-10-2020</strong> Noordwijkselaan 10</li>
     <li><strong>19-11-2020</strong> Eindhovenschelaan 2</li>   
     <li><strong>16-12-2020</strong> Noordwijkselaan (kavel 51)</li>
+    <li><strong>04-01-2021</strong> Eindhovenschelaan 13 (kavel 15)</li>
   </ul>
-  <p>Overzicht is bijgewerkt t/m week 52 2020</p>
+  <p>Overzicht is bijgewerkt t/m week 2 2021</p>
 
 </div>
