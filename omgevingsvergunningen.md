@@ -33,7 +33,9 @@ title: "Verleende omgevingsvergunningen"
     <li><strong>04-01-2021</strong> Eindhovenschelaan 13 (kavel 15)</li>
     <li><strong>13-01-2021</strong> Noordwijkselaan (kavel 53)</li>
     <li><strong>16-02-2021</strong> Noordwijkselaan (kavel 45)</li>
+    <li><strong>12-05-2019</strong> Eindhovenschelaan 6 (kavel 2) </li>
+    <li><strong>18-05-2021</strong> Noordwijkselaan (kavel 55)</li>
   </ul>
-  <p>Overzicht is bijgewerkt t/m week 8 2021</p>
+  <p>Overzicht is bijgewerkt t/m week 22 2021</p>
 
 </div>
